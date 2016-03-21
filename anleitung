@@ -1,0 +1,10 @@
+1. Alle Datein im Ordner upload auf den Webspace laden
+2. sql.sql in die Datenbank laden
+3. in der Datei lib/functions.lib.php Zeilen 5-31 anpassen. (DB Verbindung einstellen, Admin Daten)
+4. Fertig
+
+Für den Admin bereich brauch mal keine Zugangsdaten. Diese bitte dann sofort ändern in den Grundeinstellungen.
+User 1 heißt admin und brauch kein Passwort beim Login.
+
+
+Bei fragen oder Fehlern ins Forum schreiben oder mir eine Mail an vms-suee@vms1-scripte.de schreiben.
